@@ -3,6 +3,9 @@ python-experiments
 // Using pandas at scale
 https://pandas.pydata.org/docs/user_guide/scale.html
 
+  pandas chunksize specifies a certain number of rows
+  assumption is that the file is on local machine
+
 // streaming-pandas module 
 http://www.xavierdupre.fr/app/pandas_streaming/helpsphinx/index.html
 
