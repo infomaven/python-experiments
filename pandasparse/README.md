@@ -1,7 +1,10 @@
 python-experiments
 
-Using pandas at scale
+// Using pandas at scale
 https://pandas.pydata.org/docs/user_guide/scale.html
+
+// streaming-pandas module 
+http://www.xavierdupre.fr/app/pandas_streaming/helpsphinx/index.html
 
 // setting up pandas with virtualenv and profiling the code 
 https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
