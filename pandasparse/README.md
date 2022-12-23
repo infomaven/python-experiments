@@ -1,4 +1,7 @@
 python-experiments
+## Setup 
+// setting up pandas with virtualenv and profiling the code 
+https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
 
 // Using pandas at scale
 https://pandas.pydata.org/docs/user_guide/scale.html
@@ -6,11 +9,18 @@ https://pandas.pydata.org/docs/user_guide/scale.html
   pandas chunksize specifies a certain number of rows
   assumption is that the file is on local machine
 
-// streaming-pandas module 
+## Use Cases 
+// using pandas to stream Dataframe to CSV format
+https://towardsdatascience.com/reading-and-writing-files-from-to-amazon-s3-with-pandas-ccaf90bfe86c
+https://stackoverflow.com/questions/48021280/how-to-upload-a-pandas-dataframe-as-a-csv-stream-without-saving-on-disk
+1. Can we stream pandas.io.parsers.TextFileReader in the same manner??
+2. Are we using the smallest possible numerical data types? 
+
+
+// streaming-pandas module (new dependency)
 http://www.xavierdupre.fr/app/pandas_streaming/helpsphinx/index.html
 
-// setting up pandas with virtualenv and profiling the code 
-https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
+
 
 https://medium.com/analytics-vidhya/optimized-ways-to-read-large-csvs-in-python-ab2b36a7914e
 
