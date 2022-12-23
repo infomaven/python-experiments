@@ -20,7 +20,8 @@ https://stackoverflow.com/questions/48021280/how-to-upload-a-pandas-dataframe-as
 // streaming-pandas module (new dependency)
 http://www.xavierdupre.fr/app/pandas_streaming/helpsphinx/index.html
 
-
+// Pandas Dataframe attributes
+https://www.w3schools.com/python/pandas/pandas_ref_dataframe.asp
 
 https://medium.com/analytics-vidhya/optimized-ways-to-read-large-csvs-in-python-ab2b36a7914e
 
