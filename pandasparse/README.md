@@ -42,3 +42,6 @@ https://medium.com/@vasista/parallel-processing-with-pandas-c76f88963005
 
 // straight from airflow to GCP  (no python)
 https://medium.com/towards-data-science/postgres-bigquery-airflow-e857e3c6aa7a
+
+// binary data manipulation 
+https://www.devdungeon.com/content/working-binary-data-python
